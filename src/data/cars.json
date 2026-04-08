@@ -1,0 +1,102 @@
+[
+  {
+    "id": "vx-eclipse",
+    "name": "VX Eclipse",
+    "category": "Sedan",
+    "price": "$48,900",
+    "range": "620 km",
+    "powertrain": "Hybrid Performance",
+    "acceleration": "0-100 km/h in 4.8s",
+    "topSpeed": "245 km/h",
+    "image": "https://images.unsplash.com/photo-1494976388531-d1058494cdd8?auto=format&fit=crop&w=1200&q=80",
+    "badge": "Flagship",
+    "description": "A refined executive sedan blending aerodynamic precision with electrified power for confident daily performance.",
+    "features": [
+      "Adaptive LED matrix lighting",
+      "Panoramic smart glass roof",
+      "AI-assisted driver display",
+      "Premium 18-speaker cabin audio"
+    ],
+    "specs": {
+      "Horsepower": "420 HP",
+      "Battery": "28 kWh support pack",
+      "Drivetrain": "AWD",
+      "Seats": "5"
+    }
+  },
+  {
+    "id": "vx-terra",
+    "name": "VX Terra",
+    "category": "SUV",
+    "price": "$56,400",
+    "range": "700 km",
+    "powertrain": "Electric SUV",
+    "acceleration": "0-100 km/h in 5.2s",
+    "topSpeed": "230 km/h",
+    "image": "https://images.unsplash.com/photo-1511919884226-fd3cad34687c?auto=format&fit=crop&w=1200&q=80",
+    "badge": "New",
+    "description": "An all-electric luxury SUV engineered for long-range travel, intelligent comfort, and elevated family mobility.",
+    "features": [
+      "Dual-motor torque control",
+      "Terrain-adaptive suspension",
+      "Gesture-controlled infotainment",
+      "Fast charging to 80% in 28 minutes"
+    ],
+    "specs": {
+      "Horsepower": "510 HP",
+      "Battery": "110 kWh",
+      "Drivetrain": "Dual Motor AWD",
+      "Seats": "7"
+    }
+  },
+  {
+    "id": "vx-raptor",
+    "name": "VX Raptor",
+    "category": "Sports",
+    "price": "$88,900",
+    "range": "540 km",
+    "powertrain": "Twin Turbo Hybrid",
+    "acceleration": "0-100 km/h in 3.6s",
+    "topSpeed": "312 km/h",
+    "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&w=1200&q=80",
+    "badge": "Performance",
+    "description": "A grand touring sports coupe built with carbon-infused bodywork, precision steering, and race-inspired dynamics.",
+    "features": [
+      "Track-tuned dynamic chassis",
+      "Launch control and drive modes",
+      "Carbon ceramic braking package",
+      "Active rear aero stabilizer"
+    ],
+    "specs": {
+      "Horsepower": "690 HP",
+      "Battery": "16 kWh boost cell",
+      "Drivetrain": "Rear-biased AWD",
+      "Seats": "4"
+    }
+  },
+  {
+    "id": "vx-urban",
+    "name": "VX Urban",
+    "category": "Hatchback",
+    "price": "$31,200",
+    "range": "450 km",
+    "powertrain": "Compact EV",
+    "acceleration": "0-100 km/h in 6.9s",
+    "topSpeed": "180 km/h",
+    "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?auto=format&fit=crop&w=1200&q=80",
+    "badge": "City Smart",
+    "description": "A compact electric hatchback crafted for urban agility, digital convenience, and efficient everyday commuting.",
+    "features": [
+      "One-pedal regenerative driving",
+      "Connected city navigation",
+      "Hands-free digital key",
+      "Minimalist floating cockpit"
+    ],
+    "specs": {
+      "Horsepower": "250 HP",
+      "Battery": "68 kWh",
+      "Drivetrain": "FWD",
+      "Seats": "5"
+    }
+  }
+]
